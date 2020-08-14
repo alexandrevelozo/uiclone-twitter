@@ -1,7 +1,5 @@
 <div align="center">
 
-  <img src="./.github/purple-logo.svg" width="200px" /> <br />
-
   <a href="https://www.linkedin.com/in/alexandre-velozo-70626019b/">
       <img alt="Alexandre Velozo" src="https://img.shields.io/badge/-alexandrevelozo-8257E5?style=flat&logo=Linkedin&logoColor=white" />
    </a>
