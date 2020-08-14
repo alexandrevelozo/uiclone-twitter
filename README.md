@@ -1,44 +1,77 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div align="center">
 
-## Available Scripts
+  <img src="./.github/purple-logo.svg" width="200px" /> <br />
 
-In the project directory, you can run:
+  <a href="https://www.linkedin.com/in/alexandre-velozo-70626019b/">
+      <img alt="Alexandre Velozo" src="https://img.shields.io/badge/-alexandrevelozo-8257E5?style=flat&logo=Linkedin&logoColor=white" />
+   </a>
+  
+  <a href="https://twitter.com/Alexand41906340">
+    <img src="https://img.shields.io/badge/-%40Alexand41906340-8257E5?style=flat&logo=Twitter&logoColor=white" />
+  </a>
 
-### `yarn start`
+  <a href="https://mailto:alexandrevelozo4@gmail.com">
+    <img alt="Higor Denomar" src="https://img.shields.io/badge/-alexandrevelozo4%40gmail.com-8257E5?style=flat&logo=Gmail&logoColor=white" />
+  </a>
+  
+  <br/>
+  
+  <p>Project carried out during the <b>UI Clone - Rocketseat</b></p>
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+</div>
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+<br>
 
-### `yarn test`
+<p align="center">
+  <a href="#screens">Screenshots</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#techs">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#running-locally">Running locally</a>
+</p>
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<br/>&nbsp;
 
-### `yarn build`
+<h2 id="screens"> Screenshots </h2>
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<h4>Web:</h4>
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+<img src="https://github.com/alexandrevelozo/uiclone-twitter/blob/master/.github/landing-page.JPG" alt="Langing page Web" />
+<br/>&nbsp;
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<h4>Tablet:</h4>
 
-### `yarn eject`
+<img src="https://github.com/alexandrevelozo/uiclone-twitter/blob/master/.github/tablet.JPG" alt="Langing page Web" />
+<br/>&nbsp;
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+<h4>Mobile:</h4>
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<img src="https://github.com/alexandrevelozo/uiclone-twitter/blob/master/.github/mobile.JPG" alt="Langing page Web" />
+<br/>&nbsp;
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+<h2 id="techs"> Technologies </h2>
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+This project was developed with the following technologies:
 
-## Learn More
+- [ReactJS](https://reactjs.org/) with [Typescript](https://www.typescriptlang.org/)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<br/>&nbsp;
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<h2 id="running-locally"> Running locally </h2>
+
+From your command line:
+
+```sh
+# download the repository
+> git clone https://github.com/alexandrevelozo/uiclone-twitter
+
+# server
+> yarn install
+> yarn start
+
+# web
+> yarn install
+> yarn start
+
+# mobile
+> yarn install
+> yarn start
+```
